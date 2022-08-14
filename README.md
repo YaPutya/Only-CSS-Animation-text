@@ -1,1 +1,1 @@
-# Only-CSS-Animation-text
+# 3D анимация текста, только CSS.
